@@ -19,18 +19,9 @@
 //    - There are no two adjacent flowers in flowerbed.
 //    - 0 <= n <= flowerbed.length
 
-#include <vector>
+#include <iostream>
+#include "CanPlaceFlowers.h"
 
-using std::vector;
-
-class Solution {
-public:
-    bool canPlaceFlowers(vector<int>& flowerbed, int n) {
-
-    }
-};
-
-void Main()
+int main()
 {
-    
 }
